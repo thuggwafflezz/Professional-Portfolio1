@@ -7,8 +7,8 @@ What I believe really makes this website / portfolio design stand out is it's cl
 ## Usage
 The layout of the website was designed to be clean and minimalist in nature. To use the website, you can use the links located in the top right to navigate to sections of interest. Optionally, you can scroll down to see sections listed in the header. In the projects section, there are links for 3 projects. Only project labeled Horiseon refactor will re-direct to my original work. Projects labeled project2, project3, will re-direct only to google for and will be updated as more projects are created. Hovering over a project image will reveal a preview of the project. Clicking on the projec
     
-![Project Preview Image](https://github.com/thuggwafflezz/day-planner)
-[Deployed Project Available here](https://thuggwafflezz.github.io/day-planner/)
+![Project Preview Image](https://github.com/thuggwafflezz/Professional-Portfolio1)
+[Deployed Project Available here](https://thuggwafflezz.github.io/Professional-Portfolio1/)
 
 ## Credits
 I found the tutorial by Wes Bos incredibly helpful when it came to working with Flexboxes
